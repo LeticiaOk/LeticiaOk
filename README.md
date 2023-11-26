@@ -1,4 +1,4 @@
-### Olá, sou a leticia!
+### Olá, sou a Letícia!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&&theme=dracula&layout=compact)
 
