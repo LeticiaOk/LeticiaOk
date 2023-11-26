@@ -1,7 +1,7 @@
 ## Olá, sou a Letícia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&&theme=dracula&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&hide_border=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&hide_border=true&theme=dracula&layout=compact)
 
 <div style=display: inlineblock> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=30/>
