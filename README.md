@@ -1,5 +1,5 @@
 ## Olá, sou a Letícia!
-
+##### 📍Cursando ensino superior em Sistemas para Internet
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&hide_border=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&hide_border=true&theme=dracula&layout=compact)
 
