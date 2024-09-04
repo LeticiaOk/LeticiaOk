@@ -29,13 +29,25 @@
 
 ##
 
-### 💻 Projetos:
+### 💻 Some projects:
 
 <div>
   <div>
-    <img src="">
+    <h3>📍Site do meu portifólio</h3>
+    <img src="portifolio.png" width="300">
   </div>
-  
+  <h3>🎮Sistema administrativo de uma empresa de jogos</h3>
+    <img src="login.png" width="300">
+</div>
+<div>
+  <div>
+    <h3>💼API de vagas de emprego</h3>
+    <img src="formulario.png" width="300">
+  </div>
+  <div>
+    <h3> Landing Page da página do GTA</h3>
+    <img src="landing-page-gta.png" width="300">
+  </div>
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
