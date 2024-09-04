@@ -4,7 +4,9 @@
   </a>
 </div>
 
-## Olá, sou a Letícia!👋
+#
+
+### Olá, sou a Letícia!👋
 ### 📍Cursando ensino superior em Sistemas para Internet
 > Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
@@ -22,16 +24,15 @@
           
 </div> 
 
-##
+#
+
 ### 🌍 Connect with me:
 <a href = "mailto:leticiaalves6540@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FF6E96" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/letícia-alves-007823238/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=79DAFA" target="_blank"></a>
 
-##
+#
 
 ### 💻 Some projects:
-
-
 
 <table>
   <tr>
@@ -51,6 +52,8 @@
     <td><a href="https://github.com/LeticiaOk/projeto-gta"><img src="landing-page-gta.png" width="300"></a></td>
   </tr>
 </table>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
