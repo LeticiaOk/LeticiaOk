@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="300"></a></td>
-    <td><a href="https://github.com/LeticiaOk/projeto-gta"><img src="landing-page-gta.png" width="300"></a></td>
+    <td><a href="https://leticiaok.github.io/projeto-gta/"><img src="landing-page-gta.png" width="300"></a></td>
   </tr>
 </table>
 
