@@ -31,24 +31,27 @@
 
 ### 💻 Some projects:
 
-<div>
-  <div>
-    <h3>📍Site do meu portifólio</h3>
-    <img src="portifolio.png" width="300">
-  </div>
-  <h3>🎮Sistema administrativo de uma empresa de jogos</h3>
-    <img src="login.png" width="300">
-</div>
-<div>
-  <div>
-    <h3>💼API de vagas de emprego</h3>
-    <img src="formulario.png" width="300">
-  </div>
-  <div>
-    <h3> Landing Page da página do GTA</h3>
-    <img src="landing-page-gta.png" width="300">
-  </div>
-</div>
+
+
+<table>
+  <tr>
+    <th>📍Site do meu portifólio</th>
+    <th>👩‍💻Sistema administrativo<br>de uma empresa de jogos</th>
+  </tr>
+  <tr>
+    <td><a href="https://leticiaok.github.io/portifolio/"><img src="portifolio.png" width="300"></a></td>
+    <td><a href="https://github.com/LeticiaOk/crud-delta"><img src="login.png" width="300"></a></td>
+  </tr>
+  <tr>
+    <th>💼API de vagas de emprego</th>
+    <th>🎮Landing Page da página do GTA</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="300"></a></td>
+    <td><a href="https://github.com/LeticiaOk/projeto-gta"><img src="landing-page-gta.png" width="300"></a></td>
+  </tr>
+</table>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
