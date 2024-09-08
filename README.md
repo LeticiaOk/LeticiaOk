@@ -40,16 +40,16 @@
     <th>👩‍💻Sistema administrativo<br>de uma empresa de jogos</th>
   </tr>
   <tr>
-    <td><a href="https://leticiaok.github.io/portifolio/"><img src="portifolio.png" width="300"></a></td>
-    <td><a href="https://github.com/LeticiaOk/crud-delta"><img src="login.png" width="300"></a></td>
+    <td><a href="https://leticiaok.github.io/portifolio/"><img src="portifolio.png" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/crud-delta"><img src="login.png" width="480"></a></td>
   </tr>
   <tr>
     <th>💼API de vagas de emprego</th>
     <th>🎮Landing Page da página do GTA</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="300"></a></td>
-    <td><a href="https://leticiaok.github.io/projeto-gta/"><img src="landing-page-gta.png" width="300"></a></td>
+    <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
+    <td><a href="https://leticiaok.github.io/projeto-gta/"><img src="landing-page-gta.png" width="480"></a></td>
   </tr>
 </table>
 
