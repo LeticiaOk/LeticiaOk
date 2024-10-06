@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <th>📍Site do meu portifólio</th>
+    <th>📍Site do meu portfólio</th>
     <th>👩‍💻Sistema administrativo<br>de uma empresa de jogos</th>
   </tr>
   <tr>
