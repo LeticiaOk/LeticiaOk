@@ -54,7 +54,7 @@
     <th>🎮Landing Page da página do GTA</th>
   </tr>
   <tr>
-   <td><a href="https://leticiaok.github.io/portifolio/"><img src="loja.png" width="480"></a></td>
+   <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus"><img src="loja.png" width="480"></a></td>
     <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus/"><img src="landing-page-gta.png" width="480"></a></td>
   </tr>
   <tr>
