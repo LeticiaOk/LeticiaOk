@@ -50,7 +50,7 @@
     <td><a href="https://github.com/LeticiaOk/crud-delta"><img src="login.png" width="480"></a></td>
   </tr>
   <tr>
-    <th>🛍️ Loja online de produtos</th>
+    <th>🛍️ Loja online de produtos em React</th>
     <th>🎮Landing Page da página do GTA</th>
   </tr>
   <tr>
