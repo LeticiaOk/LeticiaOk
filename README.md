@@ -46,7 +46,7 @@
     <th>👩‍💻Sistema administrativo<br>de uma empresa de jogos</th>
   </tr>
   <tr>
-    <td><a href="https://leticiaok.github.io/portifolio/"><img src="portifolio.png" width="480"></a></td>
+    <td><a href="https://leticiaok.github.io/portfolio/"><img src="portifolio.png" width="480"></a></td>
     <td><a href="https://github.com/LeticiaOk/crud-delta"><img src="login.png" width="480"></a></td>
   </tr>
   <tr>
