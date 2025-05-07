@@ -63,7 +63,7 @@
   </tr>
   <tr>
      <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
-     <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="baralho.jpg" width="480"></a></td>
+     <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/baralho.jpg" width="480"></a></td>
   </tr>
 </table>
 
