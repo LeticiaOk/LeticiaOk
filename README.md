@@ -8,7 +8,11 @@
 
 ### Olá, sou a Letícia!👋
 ### 📍Cursando ensino superior em Sistemas para Internet
-> Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+> Atualmente no 4º período da faculdade, possuo experiência em desenvolvimento web e estou
+ampliando meus conhecimentos em mobile com Kotlin. Ao longo da minha trajetória, desenvolvi
+projetos tanto no frontend, utilizando tecnologias como HTML, CSS, React e JavaScript, quanto
+no backend com Python, PHP, C# e MySQL. Tenho experiência em lógica de programação,
+integração com APIs e gestão de banco de dados.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&hide_border=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&hide_border=true&theme=dracula&layout=compact)
