@@ -47,7 +47,7 @@ integração com APIs e gestão de banco de dados.
 <table>
   <tr>
     <th>📍Site do meu portfólio</th>
-    <th>👩‍💻Sistema administrativo<br>de uma empresa de jogos</th>
+    <th>👩‍💻Sistema administrativo</th>
   </tr>
   <tr>
     <td><a href="https://leticiaok.github.io/portfolio/"><img src="portifolio.png" width="480"></a></td>
