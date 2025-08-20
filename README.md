@@ -55,11 +55,11 @@ integração com APIs e gestão de banco de dados.
   </tr>
   <tr>
     <th>🛍️ Loja online de produtos em React</th>
-    <th>🎮Landing Page da página do GTA</th>
+    <th>📦Aplicativo de gestão de estoque</th>
   </tr>
   <tr>
    <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus"><img src="loja.png" width="480"></a></td>
-    <td><a href="https://github.com/LeticiaOk/projeto-gta/"><img src="landing-page-gta.png" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/armazena-mobile/"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/armazena-mobile.png" width="480"></a></td>
   </tr>
   <tr>
     <th>💼API de vagas de emprego</th>
@@ -68,6 +68,12 @@ integração com APIs e gestão de banco de dados.
   <tr>
      <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
      <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/baralho.jpg" width="480"></a></td>
+  </tr>
+  <tr>
+    <th>🎮Landing Page da página do GTA</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LeticiaOk/projeto-gta/"><img src="landing-page-gta.png" width="480"></a></td>
   </tr>
 </table>
 
