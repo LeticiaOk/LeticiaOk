@@ -8,7 +8,7 @@
 
 ### Olá, sou a Letícia!👋
 ### 📍Cursando ensino superior em Sistemas para Internet
-> Atualmente no 4º período da faculdade, possuo experiência em desenvolvimento web e estou
+> Atualmente no 5º período da faculdade, possuo experiência em desenvolvimento web e estou
 ampliando meus conhecimentos em mobile com Kotlin. Ao longo da minha trajetória, desenvolvi
 projetos tanto no frontend, utilizando tecnologias como HTML, CSS, React e JavaScript, quanto
 no backend com Python, PHP, C# e MySQL. Tenho experiência em lógica de programação,
