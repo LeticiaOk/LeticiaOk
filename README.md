@@ -59,7 +59,7 @@ integração com APIs e gestão de banco de dados.
   </tr>
   <tr>
    <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus"><img src="loja.png" width="480"></a></td>
-    <td><a href="https://github.com/LeticiaOk/armazena-mobile/"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/armazena-mobile.png" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/armazena-mobile/"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/armazenapp.png" width="480"></a></td>
   </tr>
   <tr>
     <th>💼API de vagas de emprego</th>
