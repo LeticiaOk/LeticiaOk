@@ -63,11 +63,9 @@ integração com APIs e gestão de banco de dados.
   </tr>
   <tr>
     <th>🃏 Jogo de cartas em Python</th>
-    <th>💼 API de vagas de emprego</th>
   </tr>
   <tr>
     <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://hermes.dio.me/articles/cover/394b0954-145f-407e-b318-8e355336dc08.png" width="480"></a></td>
-    <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
   </tr>
 </table>
 
