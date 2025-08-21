@@ -7,7 +7,7 @@
 #
 
 ### Olá, sou a Letícia!👋
-### 📍Cursando ensino superior em Sistemas para Internet
+### 📍 Cursando ensino superior em Sistemas para Internet
 > Atualmente no 5º período da faculdade, possuo experiência em desenvolvimento web e estou
 ampliando meus conhecimentos em mobile com Kotlin. Ao longo da minha trajetória, desenvolvi
 projetos tanto no frontend, utilizando tecnologias como HTML, CSS, React e JavaScript, quanto
@@ -71,7 +71,7 @@ integração com APIs e gestão de banco de dados.
   </tr>
 </table>
 
-### 📒Projetos de imersão:
+### 📒 Projetos de imersão:
 
 <table>
   <tr>
