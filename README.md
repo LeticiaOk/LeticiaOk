@@ -7,7 +7,7 @@
 #
 
 ### Olá, sou a Letícia!👋
-### 📍 Cursando ensino superior em Sistemas para Internet
+### 📍Cursando ensino superior em Sistemas para Internet
 > Atualmente no 5º período da faculdade, possuo experiência em desenvolvimento web e estou
 ampliando meus conhecimentos em mobile com Kotlin. Ao longo da minha trajetória, desenvolvi
 projetos tanto no frontend, utilizando tecnologias como HTML, CSS, React e JavaScript, quanto
@@ -62,16 +62,16 @@ integração com APIs e gestão de banco de dados.
    <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus"><img src="loja.png" width="480"></a></td>  
   </tr>
   <tr>
-    <th>💼 API de vagas de emprego</th>
     <th>🃏 Jogo de cartas em Python</th>
+    <th>💼 API de vagas de emprego</th>
   </tr>
   <tr>
-     <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
-     <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/baralho.jpg" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://hermes.dio.me/articles/cover/394b0954-145f-407e-b318-8e355336dc08.png" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
   </tr>
 </table>
 
-### 📒 Projetos de imersão:
+### 📒Projetos de imersão:
 
 <table>
   <tr>
