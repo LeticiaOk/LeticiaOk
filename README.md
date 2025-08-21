@@ -42,12 +42,12 @@ integração com APIs e gestão de banco de dados.
 
 #
 
-### 💻 Some projects:
+### 🚀 Projetos desenvolvidos por mim:
 
 <table>
   <tr>
-    <th>📍Site do meu portfólio</th>
-    <th>👩‍💻Sistema administrativo</th>
+    <th>📍 Site do meu portfólio</th>
+    <th>👩‍💻 Sistema administrativo</th>
   </tr>
   <tr>
     <td><a href="https://leticiaok.github.io/portfolio/"><img src="portifolio.png" width="480"></a></td>
@@ -62,25 +62,35 @@ integração com APIs e gestão de banco de dados.
    <td><a href="https://github.com/LeticiaOk/theAmazingDigitalCircus"><img src="loja.png" width="480"></a></td>  
   </tr>
   <tr>
-    <th>💼API de vagas de emprego</th>
+    <th>💼 API de vagas de emprego</th>
     <th>🃏 Jogo de cartas em Python</th>
   </tr>
   <tr>
      <td><a href="https://github.com/LeticiaOk/api-desemprego"><img src="formulario.png" width="480"></a></td>
      <td><a href="https://github.com/LeticiaOk/jogo-cartas-python"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/baralho.jpg" width="480"></a></td>
   </tr>
+</table>
+
+### 📒Projetos de imersão:
+
+<table>
   <tr>
-    <th>🎮Landing Page da página do GTA</th>
+    <th>🎮 Landing Page da página do GTA</th>
+     <th>☕ Ballecoffee</th>
+     <th>🎷 Tom's Jazz School</th>
   </tr>
   <tr>
     <td><a href="https://github.com/LeticiaOk/projeto-gta/"><img src="landing-page-gta.png" width="480"></a></td>
+    <td><a href="https://github.com/LeticiaOk/ballecoffee"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/ballecoffee-landing-page.png" width="480"></a></td>
+     <td><a href="https://github.com/LeticiaOk/projeto-gta/"><img src="https://github.com/LeticiaOk/LeticiaOk/blob/main/tom-jazz-school.png" width="480"></a></td>
   </tr>
 </table>
+
 
 #
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake.svg">
+  <img align="https://github.com/LeticiaOk/tom-jazz-school" src="https://raw.githubusercontent.com/LeticiaOk/LeticiaOk/output/github-contribution-grid-snake.svg">
 </picture>
