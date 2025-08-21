@@ -8,7 +8,7 @@
 
 ### Olá, sou a Letícia!👋
 ### 📍 Cursando ensino superior em Sistemas para Internet
-> Atualmente no 5º período da faculdade, estou sempre em busca de novos aprendizados e já desenvolvi diversos projetos no back-end e no front-end, com integração de APIs e uso de bibliotecas como React. Recentemente, tive a oportunidade de desenvolver em Kotlin para Android. Tenho paixão por programação, especialmente pela linguagem Python, e, atualmente, estou me aprofundando na área de dados.
+> Atualmente no 5º período da faculdade, estou sempre em busca de novos aprendizados e já desenvolvi diversos projetos para a web, com integração de APIs e bibliotecas como React. Recentemente, tive a oportunidade de desenvolver em Kotlin para Android. Tenho paixão por programação, especialmente pela linguagem Python, e, atualmente, estou me aprofundando na área de dados.
 > 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaok&show_icons=true&rank_icon=github&hide_border=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaok&hide_border=true&theme=dracula&layout=compact)
